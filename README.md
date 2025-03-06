@@ -1,4 +1,4 @@
-MAJOR PROJECT
+**MAJOR PROJECT**
 
 📌 Research Paper – Real-Time Detection and Translation for Indian Sign Language using Motion and Speech Recognition
 
